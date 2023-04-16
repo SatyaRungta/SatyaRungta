@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @SatyaRungta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in applied mathematics and statistics
+- 🌱 I’m currently focusing on python, R and excel for data cleaning and transformation using explorative and descriptive analysis. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
 Satya Rungta (Ph.D.)
 Email: satyarungta@gmail.com
-Education: Applied Mathematics
-Skills: R, Tableau
+Education: Applied Mathematical Sciences
+Skills: R, Python, Excel 
 
 <!---
 SatyaRungta/SatyaRungta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
