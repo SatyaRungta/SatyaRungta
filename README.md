@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatyaRungta
 - 👀 I’m interested in applied mathematics and statistics
 - 🌱 I’m currently focusing on python, R and excel for data cleaning and transformation using explorative and descriptive analysis. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on topics related to healthcare and finance such as insurance and banking. 
 - 📫 How to reach me 
 
 Satya Rungta (Ph.D.)
