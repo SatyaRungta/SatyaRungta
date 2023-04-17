@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on topics related to healthcare and finance such as insurance and banking. 
 - 📫 How to reach me 
 
-Satya Rungta (Ph.D.)
+Satya Rungta, Ph.D.
 Email: satyarungta@gmail.com
 Education: Applied Mathematical Sciences
 Skills: R, Python, Excel 
