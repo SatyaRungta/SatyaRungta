@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @SatyaRungta
-- 👀 I’m interested in applied mathematics and statistics
+- 👀 I’m interested in applied mathematics and systems and cognitive neuroscience
 - 🌱 I’m currently focusing on python, R and excel for data cleaning and transformation using explorative and descriptive analysis. 
-- 💞️ I’m looking to collaborate on topics related to healthcare and finance such as insurance and banking. 
+- 💞️ I’m looking to collaborate on topics related to healthcare, ARVR, neuro-rehabilitation, restorative therapy, market research,
+      psychology, cognition, statistics. 
 - 📫 How to reach me 
 
 Satya Rungta, Ph.D.
 Email: satyarungta@gmail.com
 Education: Applied Mathematical Sciences
-Skills: R, Python, Excel 
+           (Systems and cognitive neuroscience)
+Skills: Python, R, Microsoft Excel, Tableau, Matlab, C++ 
 
 <!---
 SatyaRungta/SatyaRungta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
