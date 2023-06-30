@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatyaRungta
 - 👀 I’m interested in applied mathematics and systems and cognitive neuroscience
 - 🌱 I’m currently focusing on python, R and excel for data cleaning and transformation using explorative and descriptive analysis. 
-- 💞️ I’m looking to collaborate on topics related to healthcare, ARVR, neuro-rehabilitation, restorative therapy, market research,
+- 💞️ I’m looking to collaborate on topics related to ARVR, gaming, healthcare, neuro-rehabilitation, restorative therapy, market research,
       psychology, cognition, statistics. 
 - 📫 How to reach me 
 
