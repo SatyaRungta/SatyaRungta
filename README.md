@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SatyaRungta
-- 👀 I’m interested in applied mathematics and systems and cognitive neuroscience
-- 🌱 I’m currently focusing on python, R and excel for data cleaning and transformation using explorative and descriptive analysis. 
-- 💞️ I’m looking to collaborate on topics related to ARVR, gaming, healthcare, neuro-rehabilitation, restorative therapy, market research,
-      psychology, cognition, statistics. 
+- 👀 I’m interested in machine learning and mathematical models for computational and behavioural neurosciences.
+- 🌱 I’m currently focusing on neural signal processing, time series analytics, probability and statistic, time to event data to track hand and eye movements and analyse EMG data from multichannel high density 
+      grid electrode arrays. 
+- 💞️ I’m looking to collaborate on projects related to computational neuroscience, virtual and augmented reality (XR), healthcare,  restorative therapy, gaming, market research,
+      psychology, cognition, statistics and Machine learning tools for neuro-rehabilitation in cogntive and movement disorders. 
 - 📫 How to reach me 
 
 Satya Rungta, Ph.D.
