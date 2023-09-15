@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SatyaRungta
-- 👀 I’m interested in machine learning and mathematical models for computational and behavioural neurosciences.
+- 👀 I’m interested in mathematical and machine learning models for computational and behavioural neurosciences.
 - 🌱 I’m currently focusing on neural signal processing, time series analytics, probability and statistic, time to event data to track hand and eye movements and analyse EMG data from multichannel high density 
       grid electrode arrays. 
 - 💞️ I’m looking to collaborate on projects related to computational neuroscience, virtual and augmented reality (XR), healthcare,  restorative therapy, gaming, market research,
